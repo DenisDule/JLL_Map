@@ -1,7 +1,7 @@
 import googlemaps
 from geocoding import geoloc_list_lat
 from geocoding import geoloc_list_lng
-API_KEY = 'AIzaSyBYO9oQNYHnZEeFZxHL2__garWzcC3Poks'
+API_KEY = 'ENTER API KEY'
 google_maps = googlemaps.Client(key=API_KEY)
 
 result = []
